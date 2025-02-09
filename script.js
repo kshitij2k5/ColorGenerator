@@ -1,4 +1,5 @@
 var index = 0;
+//Function that will generate different color in the web page
 function changeColor() {
     var colors = [
         "aliceblue",
